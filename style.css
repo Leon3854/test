@@ -18,5 +18,5 @@ body {
 
 h1 {
   font-size: 36px;
-
+  border-bottom: 1px solid tomato;
 }
